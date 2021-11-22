@@ -13,7 +13,8 @@
 - $cd Jojo-Github
 - $bash install.sh
 - $npm i multistream
-- $npm i fake-useragent```
+- $npm i fake-useragent
+- $npm start```
 
 ## FOR WINDOWS/VPS/RDP
 
