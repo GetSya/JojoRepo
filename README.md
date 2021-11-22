@@ -29,6 +29,9 @@
 git clone https://github.com/GetSya/Jojo-Github
 cd Jojo-Github
 npm install
+npm i imgbb-uploader
+npm i multistream
+npm i fake-useragent
 npm update
 ```
 
