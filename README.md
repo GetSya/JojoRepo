@@ -1,5 +1,5 @@
+---------
 ## FOR TERMUX
-```bash
 - $termux-setup-storage
 - $pkg update && pkg upgrade
 - $apt-get upgrade
@@ -14,7 +14,9 @@
 - $bash install.sh
 - $npm i multistream
 - $npm i fake-useragent
-- $npm start```
+- $npm start
+
+---------
 
 ## FOR WINDOWS/VPS/RDP
 
